@@ -1,0 +1,74 @@
+'''a=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+c=int(input("Enter the value:"))
+if a>b and a>c:
+    print("a is largest")
+elif b>a and b>c:
+    print("b is largest")
+else:
+    print("c is largest")
+'''
+
+'''a=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+c=int(input("Enter the value:"))
+if a<b and a<c:
+    print("a is smallest")
+elif b<a and b<c:
+    print("b is smallest")
+else:
+    print("c is smallest")
+'''
+
+'''num=int(input("enter the value:"))
+if num>0:
+    print("Positive")
+elif num==0:
+    print("Zero")
+else:
+    print("Negative")
+'''
+
+'''num=int(input("Enter the value:"))
+if n%5==0 and num%3==0 and num%7==0:
+    print("Yes")
+else:
+    print("No")
+'''
+
+'''days=float(input("Enter the value:"))
+fine=days
+if days<=5:
+   fine= days*0.40
+elif days<=10:
+    fine=days*0.65
+else:
+    fine=days*0.80
+print("fine:",fine)
+'''
+'''a=int(input("enter the value:"))
+b=int(input("Enter the value:"))
+c=input()
+if c=='+':
+    print(a+b)
+elif c=='-':
+    print(a-b)
+elif c=='*':
+    print(a*b)
+elif c=='/':
+    print(a/b)
+else:
+    print("Invalied")
+'''
+'''price=float(input("Enter the value:"))
+if price<30000:
+    discount=price*0.05
+elif price<60000:
+    discount=price*0.10
+else:
+    discount=price*0.15
+total_price=price-discount
+print("price of laptop:",price)
+print("discount:",discount)
+print("total price:",total_price)
+'''

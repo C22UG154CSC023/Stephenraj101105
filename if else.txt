@@ -1,0 +1,134 @@
+'''a=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+if a>b:
+    print("A is greaterthen")
+else:
+    print("B is greaterthen")
+'''
+
+'''a=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+if a<b:
+    print("A is smallest")
+else:
+    print("B is smallest")
+'''
+
+'''num=int(input("Enter the value:"))
+if num%2==0:
+    print("Even number")
+else:
+    print("Odd number")
+'''
+
+'''num=int(input("Enter the value:"))
+if num%5==0:
+    print("Multiplied")
+else:
+    print("Not")
+'''
+
+'''num=int(input("Enter the value:"))
+if num%10==0:
+    print("Multiplied")
+else:
+    print("Not")
+'''
+'''num=int(input("Enter the value:"))
+a=num
+num=abs(a)
+if (a>=10 and a<=99):
+    print("Two digit")
+else:
+    print("Not")
+'''
+'''num=int(input("Enter the value:"))
+a=num
+num=abs(a)
+if (a>=100 and a<=999):
+    print("Three digit")
+else:
+    print("Not")
+'''
+
+'''mark=int(input("Enter the value:"))
+if mark>=50:
+    print("passed")
+else:
+    print("failed")
+'''
+
+'''a=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+if a-b==0:
+    print("Zero")
+else:
+    print("Not")
+'''
+
+'''num=int(input("Enter the value:"))
+if num==1:
+    print("Exam will be easy")
+else:
+    print("Exam will be difficult")
+'''
+
+'''num=int(input("Enter the value:"))
+if num==1:
+    print("you can go out and play")
+else:
+    print("you cannot go out and play")
+'''
+
+'''l=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+if l==b:
+    print("square")
+else:
+    print("rectangle")
+'''
+'''num=int(input("Enter the value:"))
+if num%5==0 and num%3==0:
+    print("Multiplied")
+else:
+    print("Not")
+'''
+'''num=int(input("Enter the value:"))
+a=num
+num=abs(a)
+if (a>99 and a<1000) and a%10==0:
+    print("Multiplied")
+else:
+    print("Not")
+'''
+
+'''num=int(input("Enter the value:"))
+a=num
+num=abs(a)
+if (a>99 and a<1000) and a%10==0 and a%5==0 and a%2==0:
+    print("Multiplied")
+else:
+    print("Not")
+'''
+
+'''a=int(input("Enter the value:"))
+b=int(input("Enter the value:"))
+if a%2==0 and b%2==0:
+    print(a*b)
+else:
+    print(a+b)
+'''
+'''num=abs(int(input("Enter the value:")))
+a=num//10
+b=num%10
+if a>b:
+    print(a)
+else:
+    print(b)
+'''
+'''num=int(input("Enter the value:"))
+if num%10==0:
+    print("Zero")
+else:
+    print("NOT")
+'''
